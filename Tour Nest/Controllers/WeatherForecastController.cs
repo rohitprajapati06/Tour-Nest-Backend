@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace Tour_Nest.Controllers
+namespace TourNest.Controllers
 {
     [ApiController]
     [Route("[controller]")]

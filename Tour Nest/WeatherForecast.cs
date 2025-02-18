@@ -1,4 +1,4 @@
-namespace Tour_Nest
+namespace TourNest
 {
     public class WeatherForecast
     {
