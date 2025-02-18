@@ -1,0 +1,6 @@
+@Tour_Nest_HostAddress = http://localhost:5281
+
+GET {{Tour_Nest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
