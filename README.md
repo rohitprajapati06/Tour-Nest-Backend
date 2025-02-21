@@ -2,11 +2,11 @@
 
  I recently developed TourNest, an all-in-one travel management platform designed to streamline and enhance the travel experience. This platform integrates multiple features to make trip planning seamless, efficient, and enjoyable.
 
-🛠 Technologies Used:
+# 🛠 Technologies Used:
 ✅ Backend: ASP.NET Core Web Api, Entity Framework
 ✅ Database: SQL Server
 
- ✨ Key Features:
+ # ✨ Key Features:
 🔹 Flight Booking – Search, compare, and book flights effortlessly.
 🔹 Smart Budgeting – Choose from Normal, Midrange, or Luxury budgets for over 50+ attractions, or let the platform create a custom budget tailored to your trip.
 🔹 Emergency Contacts – Access a database of 100+ attraction-specific emergency contacts for a safer travel experience.
