@@ -19,3 +19,17 @@ Implemented **intelligent chatbots** for real-time travel assistance and persona
 
 ## 🔐 Enhanced Security  
 Integrated **JWT authentication** to ensure **secure user sessions**, providing travelers with a **safe and reliable** platform.  
+
+## NuGet Packages required to be installed
+AutoMapper  
+Azure.Storage.Blobs  
+BCrypt.Net-Next  
+Microsoft.AspNetCore.Authentication.JwtBearer  
+Microsoft.EntityFrameworkCore.Design  
+Microsoft.EntityFrameworkCore.SqlServer  
+Microsoft.EntityFrameworkCore.Tools  
+Microsoft.IdentityModel.Tokens  
+Razorpay  
+Swashbuckle.AspNetCore  
+System.IdentityModel.Tokens.Jwt  
+
